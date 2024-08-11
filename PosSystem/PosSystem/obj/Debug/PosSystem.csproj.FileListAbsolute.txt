@@ -1,0 +1,497 @@
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\PosSystem.exe
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\PosSystem.pdb
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ControlzEx.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ControlzEx.pdb
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ControlzEx.xml
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.Form1.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmBrand.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmBrandList.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmCategory.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmCategoryList.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmProduct.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.Properties.Resources.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.GenerateResource.cache
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.CoreCompileInputs.cache
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.CopyComplete
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.pdb
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmProduct_List.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\MetroFramework.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmStockin.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmSearchProductStokin.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmPOS.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmQty.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmLookUp.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmDiscount.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmSettel.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmResipt.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\RdlCompile.cache
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\RdlCompile.compiled
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmReportSold.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\EnvDTE.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\EnvDTE80.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\stdole.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.exe.config
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmUserAccount.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmUserLogin.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmSoldItems.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmCancelDetails.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmVoid.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmRecords.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmInventoryReport.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\AForge.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\AForge.Video.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zxing.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zxing.presentation.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\AForge.xml
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\AForge.Video.xml
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zxing.xml
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\zxing.presentation.xml
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmscanBarcode.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\PosSystem.exe.manifest
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\PosSystem.application
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.exe.manifest
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.application
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmChangePaasword.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmStoreSetting.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmDashbord.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmVendor.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frm_VendorList.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmAdjustment.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmCharts.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\BarcodeStandard.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmCreatebarcode.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.frmPrint.resources
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Deelaka\Desktop\Pos System\PosSystem\PosSystem\obj\Debug\PosSystem.csprojAssemblyReference.cache
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\bin\Release\Data\POS_DB.mdf
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\database\POS_DB.mdf
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\database\POS_DB_log.ldf
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\PosSystem.exe.manifest
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\PosSystem.application
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\PosSystem.exe
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\PosSystem.pdb
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\netstandard.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.AppContext.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Collections.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.ComponentModel.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Console.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Data.Common.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Globalization.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.Compression.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.Pipes.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Linq.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.Http.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.Ping.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.Primitives.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.Requests.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.Security.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.Sockets.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.ObjectModel.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Reflection.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Resources.Reader.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Resources.Writer.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Security.Claims.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Security.Principal.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Security.SecureString.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Text.Encoding.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Threading.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Threading.Thread.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Threading.Timer.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Xml.XPath.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\AForge.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\AForge.Video.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\BarcodeStandard.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ControlzEx.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\MetroFramework.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zxing.presentation.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\EnvDTE.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\EnvDTE80.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zxing.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\stdole.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\AForge.xml
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\AForge.Video.xml
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ControlzEx.pdb
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ControlzEx.xml
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zxing.presentation.xml
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zxing.xml
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.exe.config
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.Form1.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmAdjustment.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmCharts.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmCreatebarcode.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmPrint.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frm_VendorList.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmBrand.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmBrandList.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmCancelDetails.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmCategory.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmCategoryList.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmChangePaasword.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmDashbord.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmDiscount.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmInventoryReport.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmLookUp.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmPOS.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmProduct.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmProduct_List.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmQty.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmRecords.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmReportSold.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmResipt.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmscanBarcode.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmSearchProductStokin.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmSettel.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmSoldItems.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmStockin.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmStoreSetting.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmUserAccount.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmUserLogin.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmVendor.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.frmVoid.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.Properties.Resources.resources
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.GenerateResource.cache
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.CoreCompileInputs.cache
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.exe.manifest
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.application
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.CopyComplete
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+C:\Users\Deelaka\Documents\PosSystem\PosSystem\obj\Debug\PosSystem.pdb
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.AssemblyReference.cache
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.exe.config
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.Form1.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmAdjustment.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmCharts.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmCreatebarcode.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmPrint.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frm_VendorList.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmBrand.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmBrandList.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmCancelDetails.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmCategory.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmCategoryList.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmChangePaasword.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmDashbord.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmDiscount.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmInventoryReport.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmLookUp.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmPOS.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmProduct.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmProduct_List.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmQty.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmRecords.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmReportSold.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmResipt.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmscanBarcode.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmSearchProductStokin.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmSettel.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmSoldItems.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmStockin.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmStoreSetting.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmUserAccount.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmUserLogin.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmVendor.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.frmVoid.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.Properties.Resources.resources
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.GenerateResource.cache
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.pdb
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\bin\Release\Data\POS_DB.mdf
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\database\POS_DB.mdf
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\database\POS_DB_log.ldf
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\PosSystem.exe.manifest
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\PosSystem.application
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\PosSystem.exe
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\PosSystem.pdb
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\AForge.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\AForge.Video.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\BarcodeStandard.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ControlzEx.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\MetroFramework.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zxing.presentation.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\EnvDTE.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\EnvDTE80.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zxing.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\stdole.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\AForge.xml
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\AForge.Video.xml
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ControlzEx.pdb
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ControlzEx.xml
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zxing.presentation.xml
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zxing.xml
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.CoreCompileInputs.cache
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.exe.manifest
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.application
+C:\Users\dulan\Desktop\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.CopyComplete
